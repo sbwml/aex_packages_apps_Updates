@@ -138,7 +138,7 @@ public class UpdateChecker implements Response.ErrorListener, Response.Listener<
     }
 
     private URI getServerURI() {
-        return URI.create(String.format(Constants.OTA_URL, Utils.getDeviceName()));
+        return URI.create(String.format(Constants.OTA_URL, Utils.getDeviceName(), Utils.getOTAVersionCode()));
     }
 
     public void check() {
