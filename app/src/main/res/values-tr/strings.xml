@@ -90,4 +90,5 @@
   <string name="update_manual_ab">Devam etmek için lütfen TWRP\'yi kullanarak yapıyı manuel olarak yükleyin. Bu cihaz, A/B bölümleri nedeniyle otomatik olarak yüklemeyi desteklemiyor.</string>
   <!-- Changelog -->
   <string name="changelog_title">Değişiklikler</string>
+  <string name="changelog_loading">Yükleniyor…</string>
 </resources>

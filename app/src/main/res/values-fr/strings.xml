@@ -90,4 +90,5 @@
   <string name="update_manual_ab">Pour continuer, flasher la rom manuellement par TWRP. Cet appareil ne supporte pas l\'auto flash de la rom à cause des partitions A/B.</string>
   <!-- Changelog -->
   <string name="changelog_title">Historique des MAJ</string>
+  <string name="changelog_loading">Chargement…</string>
 </resources>

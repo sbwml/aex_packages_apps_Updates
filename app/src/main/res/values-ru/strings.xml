@@ -90,4 +90,5 @@
   <string name="update_manual_ab">Чтобы продолжить, обновите прошивку вручную с помощью TWRP. Это устройство не поддерживает автоматическое обновление из-за разделов A/B.</string>
   <!-- Changelog -->
   <string name="changelog_title">Список изменений</string>
+  <string name="changelog_loading">Загрузка…</string>
 </resources>

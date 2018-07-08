@@ -90,4 +90,5 @@
   <string name="update_manual_ab">Ak chcete pokračovať, nainštalujte zostavenie manuálne pomocou TWRP. Toto zariadenie nepodporuje automatickú inštaláciu zostavenia kvôli oddielom A/B.</string>
   <!-- Changelog -->
   <string name="changelog_title">Prehľad zmien</string>
+  <string name="changelog_loading">Nahrávanie…</string>
 </resources>

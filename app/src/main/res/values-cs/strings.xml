@@ -90,4 +90,5 @@
   <string name="update_manual_ab">Chcete-li pokračovat, nainstalujte sestavení manuálně pomocí TWRP. Toto zařízení nepodporuje automatickou instalaci sestavení kvůli oddílům A/B.</string>
   <!-- Changelog -->
   <string name="changelog_title">Seznam změn</string>
+  <string name="changelog_loading">Načítání…</string>
 </resources>

@@ -10,7 +10,7 @@
   <string name="type_downloading">Pobieranie…</string>
   <string name="type_completing">Zakańczanie…</string>
   <string name="download_button">Pobierz</string>
-  <string name="install_button">Instaluj</string>
+  <string name="install_button">Zainstaluj</string>
   <string name="updates_category_title">Dostępne aktualizacje</string>
   <string name="checking_for_updates">Sprawdzanie aktualizacji</string>
   <string name="update_found_notification">Dostępna jest nowa aktualizacja</string>
@@ -90,4 +90,5 @@
   <string name="update_manual_ab">Aby kontynuować, wgraj system ręcznie używając TWRP. To urządzenie nie wspiera automatycznego wgrywania z powodu partycji A/B.</string>
   <!-- Changelog -->
   <string name="changelog_title">Lista zmian</string>
+  <string name="changelog_loading">Ładowanie…</string>
 </resources>

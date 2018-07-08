@@ -90,4 +90,5 @@
   <string name="update_manual_ab">Để tiếp tục, hãy cài đặt bản dựng theo cách thủ công bằng cách sử dụng TWRP. Thiết bị này không hỗ trợ tự động cài đặt bản dựng do phân vùng A/B.</string>
   <!-- Changelog -->
   <string name="changelog_title">Nhật kí thay đổi</string>
+  <string name="changelog_loading">Đang tải…</string>
 </resources>

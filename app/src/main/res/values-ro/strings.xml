@@ -90,4 +90,5 @@
   <string name="update_manual_ab">Pentru a continua, folosiţi TWRP pentru a instala manual. Acest dispozitiv nu suportă instalare automată din cauza partițiilor de tip A/B.</string>
   <!-- Changelog -->
   <string name="changelog_title">Istoric modificări</string>
+  <string name="changelog_loading">Se încarcă…</string>
 </resources>

@@ -7,8 +7,8 @@
   <string name="ota_not_supported">このビルドではOTAアップデートはサポートされていません</string>
   <string name="last_updated_at">（<xliff:g id="time">%s</xliff:g>に最新の更新）</string>
   <string name="type_downloaded">ダウンロード済</string>
-  <string name="type_downloading">ダウンロード中…</string>
-  <string name="type_completing">完了中…</string>
+  <string name="type_downloading">ダウンロード中</string>
+  <string name="type_completing">完了中</string>
   <string name="download_button">ダウンロード</string>
   <string name="install_button">インストール</string>
   <string name="updates_category_title">利用可能なアップデート</string>
@@ -24,8 +24,8 @@
   <string name="settings_category_title">設定</string>
   <string name="download_folder_title">ダウンロードフォルダ</string>
   <string name="unknown">不明</string>
-  <string name="mobile_data_warning_title">モバイルデータ回線の警告</string>
-  <string name="mobile_data_warning_summary">モバイルデータ通信でのアップデートのダウンロード時に警告を表示</string>
+  <string name="mobile_data_warning_title">モバイルデータの警告</string>
+  <string name="mobile_data_warning_summary">モバイルデータ回線でのアップデートのダウンロード時に警告を表示</string>
   <!-- Info section -->
   <string name="extras_category_title">追加機能</string>
   <string name="error_open_url">ブラウザでURLを開くのに失敗しました</string>
@@ -42,9 +42,9 @@
   <string name="addons_summary">便利なファイル</string>
   <string name="addons_error">アドオンリストのロードに失敗しました</string>
   <!-- MD5 -->
-  <string name="checking_md5">ファイルの整合性を確認しています.</string>
+  <string name="checking_md5">ファイルの整合性を確認しています</string>
   <string name="md5_failed_dialog_title">ファイルの整合性</string>
-  <string name="md5_failed_dialog_message">検証に失敗しました。続行しますか?</string>
+  <string name="md5_failed_dialog_message">検証に失敗しました。続行しますか？</string>
   <!-- Downloads -->
   <string name="confirm_download_cancel_dialog_title">ダウンロードをキャンセル</string>
   <string name="confirm_download_cancel_dialog_message">現在のダウンロードをキャンセルしますか？</string>
@@ -90,4 +90,5 @@
   <string name="update_manual_ab">続けるにはTWRPを使用して手動で更新します。このデバイスはA/Bパーティションを使用した自動更新をサポートしていません。</string>
   <!-- Changelog -->
   <string name="changelog_title">更新履歴</string>
+  <string name="changelog_loading">読み込み中</string>
 </resources>

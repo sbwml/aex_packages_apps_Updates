@@ -90,4 +90,5 @@
   <string name="update_manual_ab">Per continuare, installa la build manualmente utilizzando la recovery TWRP. Questo dispositivo non supporta l\'installazione automatica della build per le partizioni A/B.</string>
   <!-- Changelog -->
   <string name="changelog_title">Novità</string>
+  <string name="changelog_loading">Caricamento…</string>
 </resources>

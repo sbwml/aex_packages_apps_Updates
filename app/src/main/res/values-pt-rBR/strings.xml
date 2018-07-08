@@ -90,4 +90,5 @@
   <string name="update_manual_ab">Para continuar, faça o flash da compilação manualmente usando TWRP. Esse dispositivo não suporta o flash automático da compilação devido as partições A/B.</string>
   <!-- Changelog -->
   <string name="changelog_title">Lista de mudanças</string>
+  <string name="changelog_loading">Carregando…</string>
 </resources>

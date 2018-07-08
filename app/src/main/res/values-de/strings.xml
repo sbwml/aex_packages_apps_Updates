@@ -90,4 +90,5 @@
   <string name="update_manual_ab">Um fortzufahren, den Build manuell mit TWRP einspielen. Dieses Gerät unterstützt kein automatisiertes Einspielen auf Grund der A/B Partitionierung.</string>
   <!-- Changelog -->
   <string name="changelog_title">Änderungsprotokoll</string>
+  <string name="changelog_loading">Wird geladen…</string>
 </resources>

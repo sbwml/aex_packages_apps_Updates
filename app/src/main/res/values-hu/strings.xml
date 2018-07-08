@@ -90,4 +90,5 @@
   <string name="update_manual_ab">A folytatáshoz flasheld fel a buildet manuálisan TWRP-vel. Ez az eszköz nem támogatja az automatikus frissítést A / B partíciók miatt.</string>
   <!-- Changelog -->
   <string name="changelog_title">Változások</string>
+  <string name="changelog_loading">Betöltés…</string>
 </resources>

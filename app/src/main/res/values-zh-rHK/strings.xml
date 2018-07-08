@@ -90,4 +90,5 @@
   <string name="update_manual_ab">若要繼續，請使用 TWRP 刷入新的建構。這個裝置由於擁有 A/B 分區所以並不支援自動刷入建構的功能</string>
   <!-- Changelog -->
   <string name="changelog_title">更新日誌</string>
+  <string name="changelog_loading">載入中…</string>
 </resources>

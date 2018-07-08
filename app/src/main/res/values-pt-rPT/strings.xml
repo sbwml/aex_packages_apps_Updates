@@ -7,6 +7,8 @@
   <string name="ota_not_supported">Esta compilação não suporta atualizações OTA.</string>
   <string name="last_updated_at">(última atualização em <xliff:g id="time">%s</xliff:g>)</string>
   <string name="type_downloaded">Recebido</string>
+  <string name="type_downloading">Transferindo...</string>
+  <string name="type_completing">Concluindo...</string>
   <string name="download_button">Transferir</string>
   <string name="install_button">Instalar</string>
   <string name="updates_category_title">Atualizações disponíveis</string>
@@ -33,15 +35,60 @@
   <string name="website_info_title">Website</string>
   <string name="website_info_summary">Visite a nossa página</string>
   <string name="news_info_title">Notícias</string>
+  <string name="news_info_summary">Mantenha-se informado sobre atualizações e outras novidades</string>
   <string name="forum_info_title">Fórum</string>
   <string name="forum_info_summary">Ver publicações no Fórum</string>
   <string name="addons_title">Extras</string>
   <string name="addons_summary">Arquivos úteis</string>
+  <string name="addons_error">Falha ao carregar a lista de complementos</string>
   <!-- MD5 -->
+  <string name="checking_md5">A verificar a integridade do arquivo…</string>
+  <string name="md5_failed_dialog_title">Integridade do arquivo</string>
+  <string name="md5_failed_dialog_message">Verificação falhada, você gostaria de prosseguir?</string>
   <!-- Downloads -->
+  <string name="confirm_download_cancel_dialog_title">Cancelar transferência</string>
+  <string name="confirm_download_cancel_dialog_message">Deseja cancelar a transferência atual ?</string>
+  <string name="download_cancelled">Download cancelado</string>
+  <string name="download_already_running">Já existe uma transferência em curso</string>
+  <string name="unable_to_stop_download">Não é possível parar a transferência</string>
+  <string name="unable_to_download_file">Não foi possível baixar o arquivo de actualização</string>
+  <string name="download_not_found">Download não foi encontrado</string>
+  <string name="notif_download_success_title">O ficheiro de atualização foi transferido com sucesso</string>
+  <string name="notif_download_success_summary">Toque para instalar</string>
+  <string name="notif_download_failure_title">Não teve sucesso na descarga da actualização</string>
+  <string name="error_download_in_progress">Existe uma transferência em progresso</string>
+  <string name="error_file_ready_to_install">Existe uma atualização pronta a ser instalada</string>
+  <string name="storage_permission_error">Por favor, conceda a permissão de armazenamento para continuar</string>
   <!-- Deleting -->
+  <string name="confirm_delete_dialog_title">Eliminar ficheiro</string>
+  <string name="confirm_delete_dialog_message">Remover o arquivo de atualização selecionado?</string>
+  <string name="confirm_delete_all_dialog_message">Eliminar todos os ficheiros transferidos?</string>
+  <string name="delete_update_success_message">Atualização <xliff:g id="filename">%s</xliff:g> foi removida</string>
+  <string name="delete_updates_failure_message">Houve um erro ao remover o arquivo de actualização</string>
+  <string name="delete_updates_noFolder_message">Localização das atualizações não encontrada</string>
+  <string name="delete_updates_success_message">Todas as atualizações descarregadas foram eliminadas</string>
   <!-- Menu and dialog strings -->
+  <string name="menu_refresh">Atualizar</string>
+  <string name="menu_delete_all">Eliminar as actualizações</string>
   <!-- Mobile data warning -->
+  <string name="update_on_mobile_data_title">Aviso</string>
+  <string name="update_on_mobile_data_message">Está prestes a transferir um pacote de atualização usando dados móveis, o que provavelmente irá resultar num elevado consumo de dados. Deseja continuar?</string>
+  <string name="checkbox_mobile_data_warning">Não mostrar novamente</string>
   <!-- Install -->
+  <string name="reboot_title">Instalar a atualização</string>
+  <string name="reboot_message">O seu dispositivo irá reiniciar-se no modo de recuperação para instalar a atualização.\n\nO seguinte arquivo será instalado: \n <xliff:g id="filepath">%s </xliff:g> \n\nGostaria de prosseguir?</string>
+  <string name="reboot_failed_title">Erro</string>
+  <string name="reboot_failed_message">Falha ao reiniciar, por favor, reinicie manualmente para a recuperação e instale o seguinte arquivo:\n\n<xliff:g id="filepath">%s</xliff:g></string>
+  <string name="delete_after_install_title">Excluir arquivo zip após a instalação</string>
+  <string name="advanced_options">Avançado</string>
+  <string name="save_advanced_options">Guardar</string>
+  <string name="wipe_cache">Limpar a cache</string>
+  <string name="wipe_dalvik_cache">Limpar Cache Dalvik/ART</string>
+  <string name="wipe_data">Limpar dados</string>
+  <string name="wipe_data_dialog_confirmation_title">Repor predefinições</string>
+  <string name="wipe_data_dialog_confirmation_message">Você selecionou a opção \"limpar dados\". Isso fará uma reposição de fábrica no seu dispositivo. Deseja continuar?</string>
+  <string name="update_manual_ab">Para continuar, flash a versão manualmente usando TWRP. Este dispositivo não suporta o flash automático, devido a partições A/B.</string>
   <!-- Changelog -->
+  <string name="changelog_title">Lista de alterações</string>
+  <string name="changelog_loading">A carregar…</string>
 </resources>

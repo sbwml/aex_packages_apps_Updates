@@ -90,4 +90,5 @@
   <string name="update_manual_ab">للمتابعة. ثبت نسخة البناء يدوياً بأستخدام TWRP. هذا الجهاز لا يدعم التثبيت التلقائي للبناء بسبب اقسام A/B.</string>
   <!-- Changelog -->
   <string name="changelog_title">سِجل التغييرات</string>
+  <string name="changelog_loading">قيد التحميل…</string>
 </resources>

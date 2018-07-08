@@ -90,4 +90,5 @@
   <string name="update_manual_ab">若要继续，请使用 TWRP 手动刷入此版本。此设备由于 A/B 分区而不支持自动刷入。</string>
   <!-- Changelog -->
   <string name="changelog_title">更新日志</string>
+  <string name="changelog_loading">正在加载…</string>
 </resources>

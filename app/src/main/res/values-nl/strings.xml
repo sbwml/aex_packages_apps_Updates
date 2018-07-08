@@ -90,4 +90,5 @@
   <string name="update_manual_ab">Flash deze build-versie handmatig met behulp van TWRP om verder te gaan. Dit apparaat biedt geen ondersteuning voor automatisch flashen vanwege A/B-partities.</string>
   <!-- Changelog -->
   <string name="changelog_title">Changelog</string>
+  <string name="changelog_loading">Laden…</string>
 </resources>
