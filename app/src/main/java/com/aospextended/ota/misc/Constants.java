@@ -33,7 +33,7 @@ public class Constants {
     public static final String CURRENT_DEVICE_NAME = "ro.aex.device";
     public static final String CURRENT_VERSION = "ro.modversion";
     public static final String CURRENT_BUILD_TYPE = "ro.extended.releasetype";
-    public static final String OTA_URL = "https://downloads.aospextended.com/ota/%s/%s";
+    public static final String OTA_URL = "https://api.aospextended.com/ota/%s/%s";
     public static final String OTA_VERSION_CODE = "ro.extended.ota.version_code";
     // Expressions
     public static final String FILENAME_DATE_FORMAT = "yyyyMMdd-Hm";
