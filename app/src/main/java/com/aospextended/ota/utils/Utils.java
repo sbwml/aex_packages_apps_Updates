@@ -100,8 +100,7 @@ public class Utils {
     }
 
     public static boolean isOTAConfigured() {
-        String prop = getSystemProperty(Constants.CURRENT_BUILD_TYPE, "UNOFFICIAL");
-        return prop.toLowerCase().equals("official") && !getDeviceName().equals("") && !getOTAVersionCode().equals("") ;
+        return !getDeviceName().equals("") && !getOTAVersionCode().equals("") ;
     }
 
     public static String getDeviceName() {
